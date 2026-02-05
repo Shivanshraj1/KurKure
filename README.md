@@ -115,7 +115,8 @@ A single application that:
 
 ## 📄 Project Resources
 
-* 📊 Presentation: `demo.pdf_compressed.pdf`
+- 📊 **Hackathon Presentation (PDF):**  
+  [Open Presentation](https://github.com/shivanshraj1/KurKure/blob/main/demo.pdf_compressed.pdf)
 
 ---
 
