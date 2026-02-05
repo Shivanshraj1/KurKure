@@ -57,6 +57,14 @@ A single application that:
 
 ---
 
+## 🔄 User Flow / Use-Case Diagram
+
+<p align="center">
+  <img src="images/user-flow.png" width="700"/>
+</p>
+   
+---
+
 ## 🧠 AI & Intelligence Layer
 
 * Price optimization models
