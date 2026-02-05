@@ -60,7 +60,7 @@ A single application that:
 ## 🔄 User Flow / Use-Case Diagram
 
 <p align="center">
-  <img src="images/user-flow.png" width="700"/>
+  <img src="https://github.com/shivanshraj1/KurKure/blob/main/images/user-flow.png" width="700"/>
 </p>
    
 ---
